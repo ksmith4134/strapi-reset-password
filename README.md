@@ -14,9 +14,9 @@
 - body: 
 ```
   {
-    "identifier": "username",
-    "currentPassword": "password",
-    "newPassword": "newPassword",
-    "confirmNewPassword": "confirmNewPassword"
+    "identifier": username, // user's username
+    "currentPassword": currentPassword, // user's current password
+    "newPassword": newPassword, // user's new password
+    "confirmNewPassword": confirmNewPassword // must match the new password
   }
  ```
