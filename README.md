@@ -3,6 +3,10 @@
 - No email provider required
 - Returns JWT and sanitized user data
 
+### Important
+- place this repo's root folder in your Strapi src/api folder
+- the final destination will look like: src/api/password
+
 ### POST request
 
 - url: http://localhost:1337/api/password
