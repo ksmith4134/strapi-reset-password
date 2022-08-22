@@ -6,6 +6,7 @@
 ### Important
 - place this repo's root folder in your Strapi src/api folder
 - the final destination will look like: src/api/password
+- remeber to **update your Roles in the Users & Permissions Plugin**
 
 ### POST request
 
